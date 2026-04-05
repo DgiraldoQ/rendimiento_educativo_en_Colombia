@@ -89,11 +89,11 @@ Este modelo puede utilizarse para:
 
 ## 📂 Estructura del Proyecto
 
-├── data/ # Datos utilizados
-├── notebooks/ # Análisis exploratorio y modelado
-├── models/ # Modelos entrenados
-├── app/ # Aplicación interactiva (opcional)
-├── README.md # Documentación
+- data/ # Datos utilizados
+-  notebooks/ # Análisis exploratorio y modelado
+- models/ # Modelos entrenados
+- app/ # Aplicación interactiva (opcional)
+- README.md # Documentación
 
 
 ---
